@@ -4,8 +4,8 @@ import os
 import io  # Required for handling image bytes for download
 
 # --- Configuration ---
-DEFAULT_FONT_FILENAME = "04B_08__.TTF"
-DEFAULT_FONT_SIZE = 8
+DEFAULT_FONT_FILENAME = "C&C Red Alert [INET].ttf"
+DEFAULT_FONT_SIZE = 30
 DEFAULT_TEXT_COLOR = (0, 0, 0, 255)  # Black, fully opaque
 DEFAULT_BG_COLOR = (0, 0, 0, 0)  # Transparent background
 
